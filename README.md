@@ -20,8 +20,9 @@ This model was developed using **AWS SageMaker** with data preprocessing, featur
 
 ---
 
-## 📁 Project Structure
+## 📁 **Project Structure**
 
+```bash
 .
 ├── CloudSageMaker.pdf          # Project documentation
 ├── Main.ipynb                  # Main notebook
@@ -176,9 +177,7 @@ print(f"Predicted Class: {result['predictions'][0]['classes']}")
 
 ### 👨‍💻 Author:  
 **Vishal Bakshi** 🎯  
-📧 Contact: **vbakshi@example.com**
+📧 Contact: **vishal.bakshi@gwu.edu**
 
 Happy Coding! 🚀  
 **⭐️ Don't forget to star the repo if you find it useful! 🌟**
-
-![image](https://github.com/user-attachments/assets/ac799ad2-27cd-4f47-9767-8a520d8b6e64)
